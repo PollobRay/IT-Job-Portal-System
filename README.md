@@ -169,3 +169,84 @@ Information Technology (IT)/ Computer Science (CS) Job Portal System.
   <b>2. Employer (Company) Panel:</b>    
      
 ![23](https://github.com/PollobRay/IT-Job-Portal-System/assets/96225924/838bf69e-9634-42b5-8002-9d897b46aa51)
+
+      * <b>Post Job:</b>
+
+![24](https://github.com/PollobRay/IT-Job-Portal-System/assets/96225924/80b548dd-e395-442a-bbc7-9aa89ceca642)
+![25](https://github.com/PollobRay/IT-Job-Portal-System/assets/96225924/337b1b14-285f-4bab-a41a-f71e5d6656b0)
+
+      * <b>View applicant list for a job that the company posted:</b>
+
+![26](https://github.com/PollobRay/IT-Job-Portal-System/assets/96225924/7f0a68ed-2ac1-45b5-b9fd-93320a13ecae)
+
+         Select the job and click view button.
+
+ ![27](https://github.com/PollobRay/IT-Job-Portal-System/assets/96225924/da053d8e-fb06-49ba-85a0-7d821d4da65d)
+
+         Click view applicant list button,
+     
+![28](https://github.com/PollobRay/IT-Job-Portal-System/assets/96225924/078e0b54-30ae-437b-aac2-1fbfa85a6f37)
+
+         Click view button to view full details for the applicant,
+         
+![29](https://github.com/PollobRay/IT-Job-Portal-System/assets/96225924/2d3ed99c-c4f5-4807-b83a-ca653d12c431)
+
+         and can select the employee.
+
+
+   * <b>View Selected Employee:</b>
+      First select the job and click view selected button,
+     
+![30](https://github.com/PollobRay/IT-Job-Portal-System/assets/96225924/d08bbfeb-eaeb-45ff-9c9f-9ef74c00dfca)
+
+      Select employee and click view to view full details,
+
+![31](https://github.com/PollobRay/IT-Job-Portal-System/assets/96225924/b0137ba5-25c2-4fb3-bc23-f118dc6214cd)
+
+![32](https://github.com/PollobRay/IT-Job-Portal-System/assets/96225924/a647acb5-79e3-4a84-8178-710ce779d7b5)
+
+      And employee also deselect the employee.
+
+
+   <b>3. Employee (User) Panel:</b>
+
+      * <b>Update Profile Information:</b>
+
+![33](https://github.com/PollobRay/IT-Job-Portal-System/assets/96225924/e9d00a46-4e5c-4fb7-96d9-2ebfbfa12bc7)
+     
+![34](https://github.com/PollobRay/IT-Job-Portal-System/assets/96225924/501ebc36-d1e8-4f70-a2e3-469bf2729a9e)
+
+![35](https://github.com/PollobRay/IT-Job-Portal-System/assets/96225924/e4ac39ee-0090-4772-8be2-232ab9e6f5b4)
+
+![36](https://github.com/PollobRay/IT-Job-Portal-System/assets/96225924/0220f97d-9e18-4b32-9ee3-5c1bfdc48e2b)
+
+      * <b>Apply to a job: </b>
+         Select the job and click open button,
+         
+![37](https://github.com/PollobRay/IT-Job-Portal-System/assets/96225924/7ccf56cc-e053-4b35-bdc7-2381e5f3ab22)
+
+![38](https://github.com/PollobRay/IT-Job-Portal-System/assets/96225924/99e7c0ca-444a-44fa-ae0e-8dd2735d4d06)
+![39](https://github.com/PollobRay/IT-Job-Portal-System/assets/96225924/e0a0c520-7149-42d2-9234-b699ed443dfa)
+
+         When an employee clicks the apply button then lot of things will check. Frist check the
+         deadline is over or not, the job requirement is full fill or not by the employee’s profile if all
+         things are satisfied then the employee’s job application will be submitted.
+
+
+      * <b>View Applied Job Status:</b>
+
+![40](https://github.com/PollobRay/IT-Job-Portal-System/assets/96225924/ab596c70-4e2f-4991-ac6a-26fd7a48cc46)
+
+         Select the job and click open button
+
+![41](https://github.com/PollobRay/IT-Job-Portal-System/assets/96225924/1f0b0d78-f596-4f9a-bd06-0e097015015d)
+         
+![42](https://github.com/PollobRay/IT-Job-Portal-System/assets/96225924/f40cffc1-b9cd-42d0-8069-a4a463c5a355)
+
+
+# Conclusion
+Online job ads can be a valuable tool for connecting real people with real jobs, in real time,
+especially for university graduates, who are more likely to search for jobs on the Internet
+.Basically we will try to create a site that will simplify the job search and job application
+process. We will Try to help employers and employee solve many of the problems associated
+with traditional recruiting methods and allow them to save their time .
