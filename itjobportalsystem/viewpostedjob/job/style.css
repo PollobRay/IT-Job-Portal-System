@@ -1,0 +1,274 @@
+
+@import url('https //fonts.googleapis.com/css family=poppins')
+
+*{
+  margin: 0;
+  padding: 0;
+  color: #d9d9d9;
+  box-sizing: border-box;
+  font-size: 'Poppins',sans-serif;
+}
+
+
+
+h1 {
+  color: black;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+
+h3{
+  color: #fff;
+}
+
+p {
+  color: rgb(250, 242, 242);
+}
+
+
+.menu_bar{
+  position: fixed;
+  top:0; left:0; right:0;
+  background: #ffffff;
+  box-shadow: 0 3px 7px rgba(0,0,0,.1);
+  padding: 0px 7%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  z-index: 1000;
+}
+
+.logo{
+  font-weight: bolder;
+  font-size: 30px;
+  color: black;
+  text-decoration: none;
+}
+.logo span{
+  color:red;
+}
+
+.navbar ul{
+  list-style:none;
+}
+
+.navbar ul li{
+  position: relative;
+  float: left;
+}
+
+.navbar ul li a{
+  font-size: 20px;
+  padding: 20px;
+  color: #333;
+  display: block;
+  text-decoration: none;
+}
+
+.navbar ul li a:hover{
+  background:rgb(92, 88, 88);
+  color: #fff;
+}
+
+
+
+
+ 
+input[type=submit] {
+  width: 30%;
+  background: transparent;
+  border: 1px solid rgb(12, 12, 12);
+  margin: 35px 0 10px;
+  height: 50px;
+  font-size: 20px;
+  border-radius: 20px;
+  padding: 0 10px;
+  box-sizing: border-box;
+  outline: none;
+  color:rgb(10, 10, 10);
+  cursor: pointer;
+  position: relative;
+  
+}
+input[type=submit]:hover {
+  background-color: #dbe7dc;
+}
+
+
+
+
+
+.secondDiv{
+  width: 100%;
+  font-family: sans-serif;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(40 96 131 / 56);
+}
+.inner-box
+{
+  width: 60%;
+}
+.card-front
+{
+  width: 100%;
+  align-items: center;
+}
+.secondDiv h2{
+  font-weight: normal;
+  font-size: 24px;
+  text-align: center;
+  font-weight: 600;
+  margin-bottom: 20px;
+  color: #264427;
+}
+
+input[type=text] {
+  width: 90%;
+  padding: 15px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  resize: vertical;
+  background-color:rgb(210, 210, 210);
+}
+textarea {
+  width: 90%;
+  height: 120px;
+  padding: 15px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  resize: none;
+  background-color:rgb(210, 210, 210);
+}
+select {
+  width: 100%;
+  padding: 15px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  
+  
+  background-color:rgb(210, 210, 210);
+}
+.col-75{
+  position: relative;
+  float: right;
+}
+input[type=date]
+{
+  width: 90%;
+  padding: 15px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  resize: vertical;
+  background-color:rgb(210, 210, 210);
+}
+
+label {
+  padding: 12px 12px 12px 0;
+  display: inline-block;
+}
+
+input[type=submit] {
+  background-color: #5b927f;
+  color: white;
+  padding: 12px 20px;
+  margin:30px 0 0 200px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  float: center;
+  width:30%;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+.col-25 {
+  float: left;
+  width: 40%;
+  margin-top: 6px;
+}
+
+.Exoption {
+  width: 50%;
+  display:grid;
+  grid-template-columns: repeat(2,1fr);
+}
+.Exoption1 {
+  float: right;
+  width: 50%;
+  padding: 12px 12px 12px 0;
+}
+.Exoption2 {
+  width: 50%;
+  padding: 12px 12px 12px 0;
+}
+.col-75 {
+  float: left;
+  width: 60%;
+  margin-top: 6px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+
+
+
+
+
+
+
+
+.LastdDiv{
+  background-color: rgb(63, 66, 66);
+  width: 100%;
+  height: 100px;
+  margin: auto;
+  display:grid;
+  grid-template-columns: repeat(3,1fr);
+  
+ }
+
+ footer{
+  bottom:0px;
+  width: 100%;
+  background: #111;
+}
+.main-content{
+  display: flex;
+  color:#d9d9d9;
+}
+.main-content .box{
+  flex-basis: 50%;
+  padding: 10px 20px;
+}
+.box h2{
+  font-size: 1.125rem;
+  font-weight: 600;
+  text-transform: uppercase;
+ 
+}
+.box .content{
+  margin: 20px 0 0 0;
+}
+.left .content .social{
+  margin: 10px 0 0 0;
+}
+.left .content .social a{
+  padding: 0 2px;
+}
+.left .content .social a span{
+  height: 40px;
+  width: 40px;
+  background: #1a1a1a;
+  line-height: 40px;
+  text-align:center;
+  font-size: 18px;
+  border-radius: 5px;
+}

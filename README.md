@@ -11,6 +11,14 @@ Information Technology (IT)/ Computer Science (CS) Job Portal System.
         -Lecturer, Dept. of CSE, DUET
 
 
+* <b>Note:</b>
+  * Intall Xampp or Wampp Server on the PC.
+  * Create Database named 'itjobportalsystem' on 'localhost\phpmyadmin'.
+  * Import 'itjobportalsystem.sql' file to the database.
+  * Move the Folder 'itjobportalsystem'  to folder 'htdocs'.
+
+  
+
 # Introduction
   It is an IT job portal site. Where Employee, Employer and Admin are divided into three
   sections. Employees can create resumes, search jobs, search IT firms and apply for jobs based
